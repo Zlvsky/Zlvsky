@@ -20,6 +20,7 @@
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <h3>- 📧 <a href="mailto:zlvsky@icloud.com">Zlvsky@icloud.com</a> </h3>
+<h3>- 🔗 <a href="https://www.linkedin.com/in/krzysztof-zaleski-216400237/">LinkedIn</a> </h3>
 <br/>
 <div>
 <a href = 'http://kzaleski.pl/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
