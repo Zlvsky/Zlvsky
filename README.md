@@ -13,7 +13,9 @@
 
 - 🏠 Based in Białystok, Poland
 
-- 💻 Currently building portfolio meanwhile making Wordpress based websites
+- 💻 Currently working full-time as a React Developer
+
+- 🎬 Planning to become React + Node.js fullstack
 
 - 💬 I'm open for job opportunities aswell as project collabs
 
