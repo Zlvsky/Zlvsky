@@ -1,30 +1,23 @@
-<h1> Ohayō! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
-<p align='center'>
-</p>
+<h1> Hey, I'm Krzysztof <img src = "https://github.com/Zlvsky/Zlvsky/assets/45123514/43e450e8-c45d-47f6-9bc4-1015a93ede32" width = 30px> </h1>
 
-<div size='20px'> Hello! My name is Krzyś (●'◡'●)
-</div>
+I'm a web & frontend developer, passionate about creative solutions and building apps from scratch.
 
-<h2> About Me </h2>
+[![Twitter Badge](https://img.shields.io/badge/@Zlvskyy-1DA1F2?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/Zlvskyy)
+[![Mail Badge](https://img.shields.io/badge/zlvsky@icloud.com-D14836?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:zlvsky@icloud.com)
+[![LinkedIn Badge](https://img.shields.io/badge/-KrzysztofZaleski-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krzysztof-zaleski02/)
 
-- 📖 I’m self learning developer focused on Front-End
+https://czaleski.com/
 
-- 👨‍💻 I’m experienced with Javascript, React, Node.js
+## About me
 
-- 🏠 Based in Białystok, Poland
+- I have 3 years of experience as a **web dev** & 2 years as a **frontend dev**
 
-- 💻 Currently working full-time as a React Developer
+- I’m proficient with TypeScript, React, Next.js, Node.js, WordPress
 
-- 🎬 Planning to become React + Node.js fullstack
+- Based in Białystok, Poland
 
-- 💬 I'm open for job opportunities aswell as project collabs
+- Currently working full-time as a React Frontend Developer
 
+- After work I'm building my own projects, freelance from time-to-time, run my blog and participate in build in public community
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<h3>- 📧 <a href="mailto:zlvsky@icloud.com">Zlvsky@icloud.com</a> </h3>
-<h3>- 🔗 <a href="https://www.linkedin.com/in/krzysztof-zaleski-216400237/">LinkedIn</a> </h3>
-<br/>
-<div>
-<a href = 'http://kzaleski.pl/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
-<a href = 'https://www.github.com/Zlvsky'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
-</div>
+- I'm open for job opportunities, contract work and project collabs
