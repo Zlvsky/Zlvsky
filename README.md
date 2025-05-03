@@ -2,7 +2,7 @@
 
 I'm a web & frontend developer, passionate about creative solutions and building web & mobile apps from scratch.
 
-[![Twitter Badge](https://img.shields.io/badge/@Zlvskyy-1DA1F2?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/Zlvskyy)
+[![Twitter Badge](https://img.shields.io/badge/@czaleskii-1DA1F2?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/czaleskii)
 [![Mail Badge](https://img.shields.io/badge/zlvsky@icloud.com-D14836?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:zlvsky@icloud.com)
 [![LinkedIn Badge](https://img.shields.io/badge/-KrzysztofZaleski-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krzysztof-zaleski02/)
 
